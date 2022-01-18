@@ -1,0 +1,17 @@
+Hi FULL_NAME,
+
+Your Autodeposit registration for user@example.com at BMO Bank of Montreal is no longer active.
+
+You can still receive transfers sent to user@example.com and deposit them manually.
+
+To re-register for Autodeposit, please visit your financial institution’s online banking website.
+
+Please do not reply to this email.
+
+This email was sent to you by Interac Corp. Corporation, the owner of the INTERAC e-Transfer®
+service, on behalf of BMO Bank of Montreal.
+Interac Corp.
+P.O. Box 45, Toronto, Ontario M5J 2J1
+www.interac.ca
+
+® Trade-mark of Interac Corp.  Used under license.

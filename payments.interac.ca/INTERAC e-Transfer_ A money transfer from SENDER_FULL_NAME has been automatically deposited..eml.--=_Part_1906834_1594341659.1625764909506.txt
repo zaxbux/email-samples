@@ -1,0 +1,18 @@
+Hi FULL_NAME,
+
+SENDER_FULL_NAME  has sent you a money transfer for the amount of $0000.00 (CAD)  and the money has been automatically deposited into your bank account at BMO Bank of Montreal.
+
+
+Message: __MESSAGE__
+
+Reference Number : __REMOVED__
+
+Please do not reply to this email.
+
+This email was sent to you by Interac Corp., the owner of the INTERAC e-Transfer®
+service, on behalf of BMO Bank of Montreal.
+Interac Corp.
+P.O. Box 45, Toronto, Ontario M5J 2J1
+www.interac.ca
+
+® Trade-mark of Interac Corp. Used under license.

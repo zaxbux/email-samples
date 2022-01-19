@@ -1,0 +1,10 @@
+
+** Delivery incomplete **
+
+There was a temporary problem delivering your message to to@example.com. Gmail will retry for 46 more hours. You'll be notified if the delivery fails permanently.
+
+
+
+The response was:
+
+Temporary System Problem. Try again later.

@@ -1,0 +1,14 @@
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; user@example.com
+Arrival-Date: Mon, 17 Jan 2022 12:35:49 -0800 (PST)
+X-Original-Message-ID:
+ <CADe5pVE8EqxYPtpQfRPV-4r4j0WJauqksVOUgNGeAai6_PbaiA@mail.gmail.com>
+
+Final-Recipient: rfc822; to@example.com
+Action: delayed
+Status: 4.0.0
+Diagnostic-Code: smtp; Temporary System Problem. Try again later.
+Last-Attempt-Date: Tue, 18 Jan 2022 14:12:49 -0800 (PST)
+Will-Retry-Until: Thu, 20 Jan 2022 12:35:49 -0800 (PST)

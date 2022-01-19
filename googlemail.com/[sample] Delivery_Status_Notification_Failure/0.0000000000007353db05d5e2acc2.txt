@@ -1,0 +1,9 @@
+
+** Address not found **
+
+Your message wasn't delivered to nobody@example.com because the address couldn't be found or is unable to receive email.
+
+
+
+The response from the remote server was:
+550 5.1.1 <nobody@example.com>: Recipient address rejected: User unknown in local recipient table

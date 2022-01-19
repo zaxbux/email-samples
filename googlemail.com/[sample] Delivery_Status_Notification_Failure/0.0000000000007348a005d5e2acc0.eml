@@ -1,0 +1,15 @@
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; googlemail.com
+Arrival-Date: Tue, 18 Jan 2022 14:20:14 -0800 (PST)
+X-Original-Message-ID:
+ <CADe5pVEnLsATWxi8TuH9hN1aeS_osq+_cQKrJoMYmFtQE4p=ww@mail.gmail.com>
+
+Final-Recipient: rfc822; nobody@example.com
+Action: failed
+Status: 5.1.1
+Remote-MTA:
+ dns; example.com. (192.168.0.0, the server for the domain example.com.)
+Diagnostic-Code: smtp; 550 5.1.1 <nobody@example.com>: Recipient address
+ rejected: User unknown in local recipient table
+Last-Attempt-Date: Tue, 18 Jan 2022 14:20:16 -0800 (PST)

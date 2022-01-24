@@ -1,7 +1,7 @@
 Content-Type: message/rfc822
 
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
-        d=bytemethod.ca; s=google;
+        d=example.com; s=google;
         h=mime-version:from:date:message-id:subject:to;
         bh=t5oK6uaVr9HDu+7DHN+08soBK8xiFO0bISlfKRzlbCE=;
         b=IRaV/HYzku+PxSlJJWlLfSzS4D1WUh54XUjMWwdUiBIvd5Z3GMwHjIzwUogN3F1doJ
